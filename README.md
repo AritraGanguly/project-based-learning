@@ -4,7 +4,7 @@ A list of programming tutorials in which learners build an application from scra
 
 To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
-## Table of Contents:
+### Table of Contents:
 
 - [C#](#c)
 - [C/C++](#cc)
